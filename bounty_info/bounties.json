@@ -1,0 +1,46 @@
+{
+  "bounties": [
+    {
+      "chest_position": {
+        "x": 19,
+        "y": 85,
+        "z": -105
+      },
+      "bounties": [
+        {
+          "item": "minecraft:redstone",
+          "value": 1
+        },
+        {
+          "item": "minecraft:repeater",
+          "value": 5
+        },
+        {
+          "item": "minecraft:comparator",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": 19,
+        "y": 85,
+        "z": -105
+      },
+      "bounties": [
+        {
+          "item": "minecraft:redstone",
+          "value": 1
+        },
+        {
+          "item": "minecraft:repeater",
+          "value": 5
+        },
+        {
+          "item": "minecraft:comparator",
+          "value": 7
+        }
+      ]
+    }
+  ]
+}
