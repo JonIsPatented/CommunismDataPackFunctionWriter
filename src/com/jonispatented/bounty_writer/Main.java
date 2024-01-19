@@ -22,6 +22,8 @@ public class Main {
             }
 
             Bounty.generateBucketCheck(bounties);
+
+            Bounty.generateLedgerLegis(bounties);
         } catch (IOException | ParseException e) {
             e.printStackTrace();
         }
