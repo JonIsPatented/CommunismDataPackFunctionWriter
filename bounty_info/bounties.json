@@ -237,6 +237,10 @@
         {
           "item": "minecraft:glowstone",
           "value": 8
+        },
+        {
+          "item": "minecraft:magma_block",
+          "value": 1
         }
       ]
     },
@@ -266,6 +270,36 @@
         {
           "item": "minecraft:redstone_lamp",
           "value": 48
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -399,
+        "y": 76,
+        "z": -35
+      },
+      "bounties": [
+        {
+          "item": "minecraft:lapis_lazuli",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -393,
+        "y": 76,
+        "z": -35
+      },
+      "bounties": [
+        {
+          "item": "minecraft:book",
+          "value": 7
+        },
+        {
+          "item": "minecraft:anvil",
+          "value": 775
         }
       ]
     }

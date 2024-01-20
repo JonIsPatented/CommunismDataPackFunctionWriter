@@ -64,9 +64,9 @@ public record Bounty(String itemID, long itemValue, Position chestPosition) {
 
         writer.write("\"}'],title:\"Ledger Legis\"," +
                 "author:\"The Overseer\",generation:3," +
-                "display:{Lore:[{\"text\":\"" +
-                "This book contains the Council Gospel from the Overseer " +
-                "regarding the point rewards for your generous donations.\"}]}}");
+                "display:{Lore:['{\"text\":\"" +
+                "This book contains the Council Gospel from the Overseer\"}','{\"text\":\"" +
+                "regarding the point rewards for your generous donations.\"}']}}");
 
         writer.close();
     }

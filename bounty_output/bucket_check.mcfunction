@@ -49,10 +49,14 @@ execute if data block -396 76 -65 {Items:[{id:"minecraft:quartz"}]} run function
 execute if data block -396 76 -65 {Items:[{id:"minecraft:gilded_blackstone"}]} run function communism:bounty_49
 execute if data block -396 76 -65 {Items:[{id:"minecraft:glowstone_dust"}]} run function communism:bounty_50
 execute if data block -396 76 -65 {Items:[{id:"minecraft:glowstone"}]} run function communism:bounty_51
-execute if data block -396 76 -65 {Items:[{id:"minecraft:redstone"}]} run function communism:bounty_52
-execute if data block -396 76 -65 {Items:[{id:"minecraft:repeater"}]} run function communism:bounty_53
-execute if data block -396 76 -65 {Items:[{id:"minecraft:comparator"}]} run function communism:bounty_54
-execute if data block -396 76 -65 {Items:[{id:"minecraft:redstone_block"}]} run function communism:bounty_55
-execute if data block -396 76 -65 {Items:[{id:"minecraft:redstone_lamp"}]} run function communism:bounty_56
+execute if data block -396 76 -65 {Items:[{id:"minecraft:magma_block"}]} run function communism:bounty_52
+execute if data block -396 76 -65 {Items:[{id:"minecraft:redstone"}]} run function communism:bounty_53
+execute if data block -396 76 -65 {Items:[{id:"minecraft:repeater"}]} run function communism:bounty_54
+execute if data block -396 76 -65 {Items:[{id:"minecraft:comparator"}]} run function communism:bounty_55
+execute if data block -396 76 -65 {Items:[{id:"minecraft:redstone_block"}]} run function communism:bounty_56
+execute if data block -396 76 -65 {Items:[{id:"minecraft:redstone_lamp"}]} run function communism:bounty_57
+execute if data block -396 76 -65 {Items:[{id:"minecraft:lapis_lazuli"}]} run function communism:bounty_58
+execute if data block -396 76 -65 {Items:[{id:"minecraft:book"}]} run function communism:bounty_59
+execute if data block -396 76 -65 {Items:[{id:"minecraft:anvil"}]} run function communism:bounty_60
 
 data remove block -396 76 -65 Items
