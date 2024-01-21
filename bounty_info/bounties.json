@@ -2,43 +2,304 @@
   "bounties": [
     {
       "chest_position": {
-        "x": 19,
-        "y": 85,
-        "z": -105
+        "x": -407,
+        "y": 76,
+        "z": -51
       },
       "bounties": [
         {
-          "item": "minecraft:redstone",
-          "value": 1
+          "item": "minecraft:iron_ingot",
+          "value": 25
         },
         {
-          "item": "minecraft:repeater",
-          "value": 5
+          "item": "minecraft:iron_block",
+          "value": 225
         },
         {
-          "item": "minecraft:comparator",
-          "value": 7
+          "item": "minecraft:raw_iron",
+          "value": 22
+        },
+        {
+          "item": "minecraft:raw_iron_block",
+          "value": 198
+        },
+        {
+          "item": "minecraft:iron_nugget",
+          "value": 2
+        },
+        {
+          "item": "minecraft:gold_ingot",
+          "value": 18
+        },
+        {
+          "item": "minecraft:gold_block",
+          "value": 162
+        },
+        {
+          "item": "minecraft:raw_gold",
+          "value": 16
+        },
+        {
+          "item": "minecraft:raw_gold_block",
+          "value": 144
+        },
+        {
+          "item": "minecraft:gold_nugget",
+          "value": 2
         }
       ]
     },
     {
       "chest_position": {
-        "x": 19,
-        "y": 85,
-        "z": -105
+        "x": -407,
+        "y": 76,
+        "z": -54
+      },
+      "bounties": [
+        {
+          "item": "minecraft:white_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:orange_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:magenta_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:light_blue_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:yellow_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:lime_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:pink_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:gray_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:light_gray_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:cyan_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:purple_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:blue_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:brown_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:green_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:red_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:black_concrete_powder",
+          "value": 8
+        },
+        {
+          "item": "minecraft:white_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:orange_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:magenta_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:light_blue_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:yellow_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:lime_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:pink_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:gray_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:light_gray_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:cyan_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:purple_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:blue_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:brown_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:green_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:red_concrete",
+          "value": 9
+        },
+        {
+          "item": "minecraft:black_concrete",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -407,
+        "y": 76,
+        "z": -58
+      },
+      "bounties": [
+        {
+          "item": "minecraft:coal",
+          "value": 5
+        },
+        {
+          "item": "minecraft:coal_block",
+          "value": 45
+        },
+        {
+          "item": "minecraft:charcoal",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -407,
+        "y": 76,
+        "z": -61
+      },
+      "bounties": [
+        {
+          "item": "minecraft:nether_brick",
+          "value": 1
+        },
+        {
+          "item": "minecraft:nether_bricks",
+          "value": 4
+        },
+        {
+          "item": "minecraft:quartz",
+          "value": 5
+        },
+        {
+          "item": "minecraft:gilded_blackstone",
+          "value": 22
+        },
+        {
+          "item": "minecraft:glowstone_dust",
+          "value": 2
+        },
+        {
+          "item": "minecraft:glowstone",
+          "value": 8
+        },
+        {
+          "item": "minecraft:magma_block",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -385,
+        "y": 76,
+        "z": -51
       },
       "bounties": [
         {
           "item": "minecraft:redstone",
-          "value": 1
+          "value": 4
         },
         {
           "item": "minecraft:repeater",
-          "value": 5
+          "value": 16
         },
         {
           "item": "minecraft:comparator",
+          "value": 21
+        },
+        {
+          "item": "minecraft:redstone_block",
+          "value": 36
+        },
+        {
+          "item": "minecraft:redstone_lamp",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -399,
+        "y": 76,
+        "z": -35
+      },
+      "bounties": [
+        {
+          "item": "minecraft:lapis_lazuli",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "chest_position": {
+        "x": -393,
+        "y": 76,
+        "z": -35
+      },
+      "bounties": [
+        {
+          "item": "minecraft:book",
           "value": 7
+        },
+        {
+          "item": "minecraft:anvil",
+          "value": 775
         }
       ]
     }

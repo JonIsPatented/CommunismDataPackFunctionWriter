@@ -16,9 +16,14 @@ public class Main {
 
         try {
             List<Bounty> bounties = generateBountiesFromJSON("bounty_info/bounties.json");
+
             for (int i = 0; i < bounties.size(); i++) {
                 bounties.get(i).generateBountyFile(i + 1);
             }
+
+            Bounty.generateBucketCheck(bounties);
+
+            Bounty.generateLedgerLegis(bounties);
         } catch (IOException | ParseException e) {
             e.printStackTrace();
         }
